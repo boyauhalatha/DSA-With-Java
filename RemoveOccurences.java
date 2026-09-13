@@ -20,7 +20,7 @@ public class RemoveOccurences{
         }
         System.out.println("array after removing all occurences is:");
         
-        System.out.println("count is" +count);
+        System.out.println("count is: " +count);
         sc.close();
     }
 }
